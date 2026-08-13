@@ -1,2 +1,5 @@
+# Verify this MCP package without adding scanner dependencies to the project:
+# uvx --from hol-guard plugin-scanner verify .
+
 [scanner]
 profile = "strict-security"
